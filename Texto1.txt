@@ -4,3 +4,5 @@ Mi primer archivo de prueba Texto1
 SE AGREGO ESTA LINEA PARA LA RAMA1
 
 linea nueva
+
+linea editada en el remoto para visualizarse en el local
